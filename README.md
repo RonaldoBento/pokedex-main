@@ -40,3 +40,6 @@ Com seus scripts é possível incluir, em uma página estática, elementos dinâ
 
 O <strong>GitHub Pages</strong> é um serviço de hospedagem de site estático que usa arquivos HTML, CSS e JavaScript diretamente de um repositório no GitHub e, como opção, executa os arquivos por meio de um processo e publica um site.</p>
 
+<a href="https://ronaldobento.github.io/pokedex-main//index.html" target="_blank" rel="external" title="Clique aqui para entrar no site do projeto pokemon-main"><strong>Clique aqui para entrar no site do projeto pokemon-main ou utilize o QR Code abaixo</strong></a><br>
+
+<img src="frame.png" alt="tela no formato png"><br>
